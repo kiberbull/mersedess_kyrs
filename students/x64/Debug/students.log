@@ -1,0 +1,10 @@
+﻿  students.cpp
+C:\Users\mikha\Desktop\Курсовая Мерсов 1 курс\Курсач\students\students.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\mikha\Desktop\Курсовая Мерсов 1 курс\Курсач\students\students.cpp(263,22): warning C4244: =: преобразование "double" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\mikha\Desktop\Курсовая Мерсов 1 курс\Курсач\students\students.cpp(287,6): warning C4101: id: неиспользованная локальная переменная
+C:\Users\mikha\Desktop\Курсовая Мерсов 1 курс\Курсач\students\students.cpp(287,10): warning C4101: comand: неиспользованная локальная переменная
+  students.vcxproj -> C:\Users\mikha\Desktop\Курсовая Мерсов 1 курс\Курсач\x64\Debug\students.exe

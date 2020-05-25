@@ -1,0 +1,8 @@
+1 Phys First
+2 Phys Second
+3 C++ First
+4 C++ Second
+5 Математика ВторойСем
+6 Математика ПервыйСем
+7 ОИБ Первый
+8 OIB Second

@@ -1,0 +1,8 @@
+1 Ionov Alexey Vladimirovich m 15/05/0 20/05/20 IKBSP BBBO 1034
+2 Pionov Alexander Vyacheslavovich m 10/10/0 20/05/20 IBAS BBBO 1033
+3 Ekaterina Bolshova Viktorovna f 06/06/6 20/05/20 IBAS BBB 1030
+4 Sofiya Tayurskaya Alekseevna f 05/01/0 21/05/20 IKBSP BBBO-01-19 1333
+5 Максим Ионов Сергеевич m 15/06/1 21/05/20 ИКБСП БББО-07-19 1334
+6 Александр Пионов Вячеславович m 10/10/0 21/05/20 ИКБСП БББО-03-19 1330
+7 Екатерина Большова Викторовна f 06/06/6 21/05/20 ИКБСП БББО-05-19 1337
+8 София Таюрская Алексеевна f 05/05/5 21/05/20 ИКБСП БББО-13-19 2048
